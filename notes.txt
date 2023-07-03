@@ -1,0 +1,29 @@
+3 types of containers:
+    containers
+    container fluid
+    container grid
+container is a place that stores things.
+
+go check bootstrap website for basic info.
+
+HW
+create a container with 5 rows.
+    first row 3-3-3-3 equal sized col.
+    secnd row 2-8-2 cols
+    third row 4-6-2 cols
+    fourth row 5-3-4 cols
+    fifth row 2-2-2-2-2-2 cols
+
+bootstrap components-
+    buttons-
+        -bootstrap provides beautiful attractive and unique styles of buttons
+        - buttons are created with .btn classes
+
+navbar placed mostly on the top of the website
+
+horizontal navbar
+    -add navbar navbar-expand-lg to horizontal align.
+centered navbar
+    - add justify-content-center to center navbar.
+
+active infront of the link will keep it in active position and disabled infront of the same will make the link unactive.

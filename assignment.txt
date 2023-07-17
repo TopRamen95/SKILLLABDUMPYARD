@@ -2,3 +2,6 @@ create collapse component using anchor tag
 create accordion component
 create a folder and install react in that
     npx create-react-app foldername
+
+    react router dom
+    nbmi bootstrap
